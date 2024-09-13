@@ -1,0 +1,8 @@
+.page__item {
+	text-decoration: none;
+}
+.page__link {
+	text-decoration: none;
+	background-color: #dd1a1a;
+	border-radius: 50%;
+}
